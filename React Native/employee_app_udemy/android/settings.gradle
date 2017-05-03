@@ -1,0 +1,3 @@
+rootProject.name = 'employee_app_udemy'
+
+include ':app'
